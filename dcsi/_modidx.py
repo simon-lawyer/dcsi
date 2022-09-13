@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://simon-lawyer.github.io',
                 'git_url': 'https://github.com/simon-lawyer/dcsi',
                 'lib_path': 'dcsi'},
-  'syms': {'dcsi.core': {'dcsi.core.foo': ('core.html#foo', 'dcsi/core.py')}}}
+  'syms': { 'dcsi.core': {'dcsi.core.foo': ('core.html#foo', 'dcsi/core.py')},
+            'dcsi.helper': { 'dcsi.helper.Helper': ('helper.html#helper', 'dcsi/helper.py'),
+                             'dcsi.helper.Helper.__init__': ('helper.html#__init__', 'dcsi/helper.py'),
+                             'dcsi.helper.Helper.__str__': ('helper.html#__str__', 'dcsi/helper.py'),
+                             'dcsi.helper.Helper.name': ('helper.html#name', 'dcsi/helper.py')}}}

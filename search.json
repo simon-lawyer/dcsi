@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "helper.html",
+    "href": "helper.html",
+    "title": "Helper tools",
+    "section": "",
+    "text": "source\n\nHelper\n\n Helper ()\n\nThis class contains some information that will help us\n\nhelp_me = Helper()\n\n\nhelp_me\n\nNice job! You loaded the class application. In the next cell, call the \"name\" function. Hint: XXX.name()\n\n\n\nhelp_me.name()\n\nEnter your name:  Simon\n\n\n\nHi Simon, you are doing great!\nThe purpose of this library is to give you easy access to information when you need it.\nType in XXX.url into the next cell\n\n\n\nhelp_me.url\n\n'https://refugeelab.ca/wp-content/uploads/2020/08/2019_-RPD_-Data.xlsx'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DCSI",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "DCSI",
+    "section": "Install",
+    "text": "Install\npip install dcsi"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "DCSI",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
